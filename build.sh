@@ -1,3 +1,3 @@
 cnpm install
-cnpm install bundler
+npm install -g parcel-bundler
 npm start
